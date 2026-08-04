@@ -1,0 +1,5 @@
+.DS_Store
+
+# has the google places api key in it, everybody uses their own
+js/database/google-config.js
+.vercel
